@@ -1,2 +1,2 @@
 # ml_snippets
-Snippets of code frequently used in building ML models
+Snippets of code I frequently use in building ML models
